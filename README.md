@@ -60,6 +60,7 @@ Community instances:
 | [teddit.hostux.net](https://teddit.hostux.net) |  |  | Operated by https://hostux.net |
 | [teddit.no-logs.com](https://teddit.no-logs.com/) |  |  | Operated by https://no-logs.com |
 | [teddit.projectsegfau.lt](https://teddit.projectsegfau.lt) | [teddit.pjsfkvpxlinjamta...onion](http://teddit.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion) |  | Maintained by Project Segfault Team (https://projectsegfau.lt/team) |
+| [teddit.laserdisc.tokyo](https://teddit.laserdisc.tokyo) |  |  | |
 
 <!--
 Remove the Changelog section, because the CHANGELOG.md is not updated anymore
