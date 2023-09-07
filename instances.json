@@ -114,5 +114,10 @@
   },
   {
     "url": "https://teddit.laserdisc.tokyo"
-  }
+  },
+  {
+    "url": "https://t.sneed.network",
+    "onion": "http://t.sneed4fmhevap3ci4xhf4wgkf72lwk275lcgomnfgwniwmqvaxyluuid.onion/",
+    "notes": "Operated by sneednet (https://sneed.network)"
+  }  
 ]
