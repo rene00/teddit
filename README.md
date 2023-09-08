@@ -62,6 +62,7 @@ Community instances:
 | [teddit.projectsegfau.lt](https://teddit.projectsegfau.lt) | [teddit.pjsfkvpxlinjamta...onion](http://teddit.pjsfkvpxlinjamtawaksbnnaqs2fc2mtvmozrzckxh7f3kis6yea25ad.onion) |  | Maintained by Project Segfault Team (https://projectsegfau.lt/team) |
 | [teddit.laserdisc.tokyo](https://teddit.laserdisc.tokyo) |  |  | |
 | [t.sneed.network](https://t.sneed.network) | [t.sneed4fmhevap3ci4x...onion](http://t.sneed4fmhevap3ci4xhf4wgkf72lwk275lcgomnfgwniwmqvaxyluuid.onion/) | | Operated by [sneed.network](https://sneed.network) |
+|  | [teddit.skunky7dhv7no...onion](http://teddit.skunky7dhv7nohsoalpwe3sxfz3fbkad7r3wk632riye25vqm3meqead.onion/) |  | Self-hosted, works only from 7-11 AM Moscow time to 10-12 PM, in Donetsk |
 
 <!--
 Remove the Changelog section, because the CHANGELOG.md is not updated anymore
