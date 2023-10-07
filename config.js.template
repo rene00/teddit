@@ -106,7 +106,7 @@ const config = {
                         'Documentaries', 'InternetIsBeautiful',
                         'WritingPrompts', 'creepy', 'philosophy',
                         'announcements', 'listentothis', 'blog'],
+  only_suggested: process.env.ONLY_SUGGESTED === 'true' || false, // Set to true to only allow to view subreddits within the suggested_subreddits array
 };
 
 module.exports = config;
-
