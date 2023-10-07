@@ -571,7 +571,7 @@ subredditRoutes.get('/r/:subreddit/:sort?', (req, res, next) => {
     }
   }
 
-  if (config.only_suggested == true ) {
+  if (config.only_suggested == true && config.suggested_subreddits.length > 0) {
       let allowed = false;
       for (const s of config.suggested_subreddits) {
         if (s == subreddit) {
