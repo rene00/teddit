@@ -571,6 +571,23 @@ subredditRoutes.get('/r/:subreddit/:sort?', (req, res, next) => {
     }
   }
 
+  if (config.only_suggested == true ) {
+      let allowed = false;
+      for (const s of config.suggested_subreddits) {
+        if (s == subreddit) {
+            allowed = true;
+            break;
+        }
+      }
+      if (allowed == false) {
+          return res.render('frontpage', {
+            json: null,
+            user_preferences: req.cookies,
+            instance_config: config,
+          });
+      }
+  }
+
   let key = `${subreddit.toLowerCase()}:${after}:${before}:sort:${sortby}:past:${past}:raw_json:${raw_json}`;
   redis.get(key, (error, json) => {
     if (error) {
